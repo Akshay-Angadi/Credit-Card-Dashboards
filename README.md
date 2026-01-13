@@ -14,10 +14,6 @@ This project focuses on building an **interactive Power BI dashboard** using **t
 
 ### Week-over-Week (WoW) Changes
 - **Revenue** increased by **28.8%**
-- **Total Transaction Amount** increased by **XX%**
-- **Total Transaction Count** increased by **XX%**
-- **Customer Count** increased by **XX%**
-
 ---
 
 ## Year-to-Date (YTD) Overview
@@ -62,16 +58,14 @@ This project focuses on building an **interactive Power BI dashboard** using **t
 
 ## Business Impact
 - Enabled real-time monitoring of credit card performance
-- Improved visibility into customer behavior and revenue drivers
+- Improved visibility into customer behaviour and revenue drivers
 - Supported faster and more informed decision-making for stakeholders
 
 ---
+## Dashboards
+<img width="1288" height="720" alt="image" src="https://github.com/user-attachments/assets/72b1f90d-0995-4ef6-9773-378ddd6845e8" />
+<img width="1293" height="727" alt="image" src="https://github.com/user-attachments/assets/df41afa9-3ca0-4c1f-a6af-3199ab099e61" />
 
-## Future Enhancements
-- Automate WoW percentage calculations
-- Add forecasting for revenue and delinquency rates
-- Enhance customer segmentation with credit score and tenure analysis
 
----
 
-⭐ *If you find this project useful, feel free to star the repository!*
+
