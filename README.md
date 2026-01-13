@@ -64,6 +64,7 @@ This project focuses on building an **interactive Power BI dashboard** using **t
 ---
 ## Dashboards
 <img width="1288" height="720" alt="image" src="https://github.com/user-attachments/assets/72b1f90d-0995-4ef6-9773-378ddd6845e8" />
+
 <img width="1293" height="727" alt="image" src="https://github.com/user-attachments/assets/df41afa9-3ca0-4c1f-a6af-3199ab099e61" />
 
 
